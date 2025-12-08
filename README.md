@@ -17,6 +17,33 @@
 </div>
 
 ---
+## About Me
+
+I am Mukesh Kumar K, a Computer Science Engineering student specializing in Artificial Intelligence and Machine Learning.  
+I am passionate about building intelligent systems, solving real-world problems through technology, and continuously improving my technical and analytical skills.
+
+### Currently Focused On
+- Machine Learning and Deep Learning concepts
+- Full-stack development and modern web technologies
+- Data structures and algorithms for competitive programming
+- Developing practical applications that integrate AI with real-world use cases
+
+### Interests
+- Artificial Intelligence and Automation
+- Software Architecture and System Design
+- Open-source contributions and collaborative development
+- Research and innovation in emerging technologies
+
+### Personal Philosophy
+I believe in consistent learning, disciplined execution, and building meaningful solutions that create real impact.  
+Every line of code is a step toward progress.
+
+### Future Goals
+- Become proficient in advanced AI domains such as Computer Vision and NLP
+- Work on production-grade scalable systems
+- Contribute to open-source AI frameworks and tools
+- Build projects that solve real-life problems and add value to society
+
 ## 🛠️ Technical Skills  
 
 <table align="center" width="100%">
