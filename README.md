@@ -1,20 +1,11 @@
 <div align="center">
 
-![Developer Banner](https://ishan-rest.vercel.app/svg/banner/dev5/MukeshKumar)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7FFFD4&height=200&section=header&text=Mukesh%20Kumar%20K&fontSize=60&fontAlignY=35&desc=AI%20%7C%20ML%20Enthusiast%20%7C%20Full-Stack%20Developer&descAlignY=60&descAlign=50&fontColor=000000&animation=twinkling&stroke=000000&strokeWidth=2" alt="Header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Computer+Science+Student+%F0%9F%8E%93;AI%2FML+Enthusiast+%F0%9F%A4%96;Problem+Solver+%F0%9F%8E%AF;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7FFFD4&center=true&vCenter=true&width=600&lines=Passionate+AI%2FML+Engineer;🚀+Building+Modern+Web+%26+AI+Applications;DSA+%26+Problem+Solving+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
 
-<p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=8B5CF6&style=for-the-badge&logo=github&logoColor=white" alt="Profile Views"/>
-  </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=followers">
-    <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=for-the-badge&color=7C3AED&logo=github&logoColor=white" alt="Followers"/>
-  </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories">
-    <img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?label=Total+Stars&style=for-the-badge&color=6D28D9&logo=starship&logoColor=white" alt="Stars"/>
-  </a>
-</p>
+</div>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-AI%20%26%20Machine%20Learning-6366F1?style=flat-square" />
