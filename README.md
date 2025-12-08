@@ -114,43 +114,38 @@ Music & Tech Videos
 <tr>
 <td width="65%" valign="top">
 
-### 🤖 AI & Machine Learning
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45" height="45" alt="TensorFlow" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45" height="45" alt="PyTorch" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="45" height="45" alt="OpenCV" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45" height="45" alt="Scikit-Learn" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="45" height="45" alt="Keras" />
-</p>
+## 🛠️ Tech Stack
 
-### 💻 Development & Frameworks
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="45" height="45" alt="Django" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45" height="45" alt="Flask" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="45" height="45" alt="FastAPI" />
-</p>
+### 🧠 AI/ML & Data Science
+![Python](https://img.shields.io/badge/Python-7FFFD4?style=for-the-badge&logo=python&logoColor=000000)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-7FFFD4?style=for-the-badge&logo=tensorflow&logoColor=000000)
+![PyTorch](https://img.shields.io/badge/PyTorch-7FFFD4?style=for-the-badge&logo=pytorch&logoColor=000000)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-7FFFD4?style=for-the-badge&logo=scikit-learn&logoColor=000000)
+![Pandas](https://img.shields.io/badge/Pandas-7FFFD4?style=for-the-badge&logo=pandas&logoColor=000000)
+![NumPy](https://img.shields.io/badge/NumPy-7FFFD4?style=for-the-badge&logo=numpy&logoColor=000000)
+![Keras](https://img.shields.io/badge/Keras-7FFFD4?style=for-the-badge&logo=keras&logoColor=000000)
 
-### ☁️ Cloud & DevOps
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" height="45" alt="AWS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="45" height="45" alt="Kubernetes" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git" />
-</p>
+### 🌐 Web Development
+![JavaScript](https://img.shields.io/badge/JavaScript-7FFFD4?style=for-the-badge&logo=javascript&logoColor=000000)
+![React](https://img.shields.io/badge/React-7FFFD4?style=for-the-badge&logo=react&logoColor=000000)
+![Node.js](https://img.shields.io/badge/Node.js-7FFFD4?style=for-the-badge&logo=node.js&logoColor=000000)
+![HTML5](https://img.shields.io/badge/HTML5-7FFFD4?style=for-the-badge&logo=html5&logoColor=000000)
+![CSS3](https://img.shields.io/badge/CSS3-7FFFD4?style=for-the-badge&logo=css3&logoColor=000000)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7FFFD4?style=for-the-badge&logo=bootstrap&logoColor=000000)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-7FFFD4?style=for-the-badge&logo=tailwind-css&logoColor=000000)
 
-### 🔧 Other Tools & Languages
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="45" height="45" alt="Arduino" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="45" height="45" alt="Raspberry Pi" />
-</p>
+### 💻 Programming Languages
+![C](https://img.shields.io/badge/C-7FFFD4?style=for-the-badge&logo=c&logoColor=000000)
+![C++](https://img.shields.io/badge/C++-7FFFD4?style=for-the-badge&logo=c%2B%2B&logoColor=000000)
+![SQL](https://img.shields.io/badge/SQL-7FFFD4?style=for-the-badge&logo=mysql&logoColor=000000)
+
+### 🛠️ Tools & Technologies
+![Git](https://img.shields.io/badge/Git-7FFFD4?style=for-the-badge&logo=git&logoColor=000000)
+![GitHub](https://img.shields.io/badge/GitHub-7FFFD4?style=for-the-badge&logo=github&logoColor=000000)
+![VS Code](https://img.shields.io/badge/VS_Code-7FFFD4?style=for-the-badge&logo=visual-studio-code&logoColor=000000)
+![Jupyter](https://img.shields.io/badge/Jupyter-7FFFD4?style=for-the-badge&logo=jupyter&logoColor=000000)
+![Docker](https://img.shields.io/badge/Docker-7FFFD4?style=for-the-badge&logo=docker&logoColor=000000)
+
 
 </td>
 <td width="35%" align="center" valign="middle">
