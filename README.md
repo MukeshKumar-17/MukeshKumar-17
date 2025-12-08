@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="MukeshKumar-17
-/Gemini_Generated_Image_yr3v6cyr3v6cyr3v.png />
+<img src="README.MD/Gemini_Generated_Image_yr3v6cyr3v6cyr3v">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7FFFD4&center=true&vCenter=true&width=600&lines=Passionate+AI%2FML+Engineer;🚀+Building+Modern+Web+%26+AI+Applications;DSA+%26+Problem+Solving+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
 
