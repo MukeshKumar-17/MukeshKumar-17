@@ -109,6 +109,73 @@ Explore more work & repositories:
 
 ---
 
+##  Coding Platforms & Statistics
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+###  LeetCode Profile
+
+<a href="https://leetcode.com/u/MUKESH_KUMAR_K/">
+  <img src="https://leetcard.jacoblin.cool/MUKESH_KUMAR_K?theme=dark&font=Ubuntu&ext=heatmap&border=0D1117&radius=0" alt="LeetCode Stats" width="100%" />
+</a>
+
+<a href="https://leetcode.com/u/MUKESH_KUMAR_K/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=00FF99" alt="LeetCode" />
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+###  CodeChef Profile
+
+<table align="center">
+  <tr>
+    <td align="center" colspan="2">
+      <img src="https://img.shields.io/badge/Rating-1500%2B-000000?style=for-the-badge&logo=codechef&logoColor=00FF99&labelColor=000000" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Problems%20Solved-000000?style=for-the-badge&logo=codechef&logoColor=00FF99&labelColor=000000" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Active%20Coder-000000?style=for-the-badge&logo=codechef&logoColor=00FF99&labelColor=000000" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <a href="https://www.codechef.com/users/kit23bam032" target="_blank">
+        <img src="https://img.shields.io/badge/CodeChef-000000?style=for-the-badge&logo=codechef&logoColor=00FF99&labelColor=000000" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+### Codolio
+
+<a href="https://codolio.com/profile/Mukesh_Kumar" target="_blank">
+  <img src="https://img.shields.io/badge/Codolio-000000?style=for-the-badge&logoColor=00FF99&labelColor=000000" alt="Codolio" />
+</a>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=00FF99&fontColor=000000&text=Coding%20Philosophy&fontSize=40&fontAlignY=40&desc=while%20(alive)%20%7B%20eat();%20sleep();%20code();%20repeat();%20%7D&descSize=20&descAlignY=65&animation=twinkling" />
+</div>
+
+</div>
+
+---
+
+
 ##  GitHub Analytics
 
 
@@ -142,6 +209,7 @@ Explore more work & repositories:
 </div>
 
 ---
+
 
 
 
