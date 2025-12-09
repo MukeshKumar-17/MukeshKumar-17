@@ -1,6 +1,6 @@
 <div align="center">
 
-![Banner](./banner.png.png)
+<img src="./banner.png.png" width="65%" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Passionate+AI%2FML+Engineer;🚀+Building+Modern+Web+%26+AI+Applications;DSA+%26+Problem+Solving+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
 
