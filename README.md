@@ -100,7 +100,7 @@ Explore more work & repositories:
 - Machine Learning & AI
 - Full-Stack Applications
 
-[![](https://img.shields.io/badge/View_All_Repositories-000000?style=for-the-badge&logo=github&logoColor=00FF99)](https://github.com/Mukesh-Kumar-K?tab=repositories)
+[![](https://img.shields.io/badge/View_All_Repositories-000000?style=for-the-badge&logo=github&logoColor=00FF99)](https://github.com/MukeshKumar-17?tab=repositories)
 
 </td>
 </tr>
