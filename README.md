@@ -210,6 +210,30 @@ Explore more work & repositories:
 
 ---
 
+##  Connect with Me  
+<p align="left">
+
+  <a href="https://www.linkedin.com/in/mukeshkumark17/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:mukeshkumark1755@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://codolio.com/profile/Mukesh_Kumar">
+    <img src="https://img.shields.io/badge/Codolio-000000?style=for-the-badge&logoColor=white"/>
+  </a>
+</p>
+
+---
+<div align="center">
+  ✨ "Creating intelligent systems that shape a smarter future."
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF99&height=150&section=footer&reversal=true" />
 
 
+**⭐ If you find my work interesting, feel free to star my repositories!**
 
+*Made with ❤️ by [Mukesh Kumar K](https://github.com/MukeshKumar-17)*
+</div>
