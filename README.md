@@ -14,6 +14,7 @@
 I am Mukesh Kumar K, a Computer Science Engineering student specializing in Artificial Intelligence and Machine Learning.  
 I am passionate about building intelligent systems, solving real-world problems through technology, and continuously improving my technical and analytical skills.
 
+---
 
 
 ##  Technical Skills  
@@ -105,5 +106,44 @@ Explore more work & repositories:
 </td>
 </tr>
 </table>
+
+---
+
+##  GitHub Analytics
+
+
+<div align="center">
+
+<!-- GitHub Stats (Optional, uncomment if needed)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MukeshKumar-17&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00FF99&text_color=FFFFFF&icon_color=00FF99" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MukeshKumar-17&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00FF99&text_color=FFFFFF" alt="Top Languages" />
+-->
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MukeshKumar-17&theme=react&hide_border=true&background=0D1117&stroke=00FF99&ring=00FF99&fire=00FF99&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FF99&sideLabels=00FF99&dates=FFFFFF" alt="GitHub Streak" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MukeshKumar-17&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FF99&line=00FF99&point=FFFFFF&area=true&area_color=00FF99&title_color=00FF99" alt="Activity Graph" />
+
+</div>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MukeshKumar-17/MukeshKumar-17/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MukeshKumar-17/MukeshKumar-17/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/MukeshKumar-17/MukeshKumar-17/output/github-snake.svg" />
+</picture>
+
+</div>
+
+---
+
 
 
