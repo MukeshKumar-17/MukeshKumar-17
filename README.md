@@ -64,6 +64,7 @@ I am passionate about building intelligent systems, solving real-world problems 
 
 ---
 
+##  Featured Projects
 <table>
 <tr>
 <td width="50%">
