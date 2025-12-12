@@ -12,7 +12,7 @@
 ## About Me
 
 I am Mukesh Kumar K, a Computer Science Engineering student specializing in Artificial Intelligence and Machine Learning.  
-I am passionate about building intelligent systems, solving real-world problems through technology, and continuously improving my technical and analytical skills. 
+I am passionate about building intelligent systems, solving real-world problems through technology, and continuously improving my technical and analytical skills.
 
 ---
 
