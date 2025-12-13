@@ -2,7 +2,7 @@
 
 <img src="./Bannerr.jpeg" width="100%" /> 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Passionate+AI%2FML+Engineer;🚀+Building+Modern+Web+%26+AI+Applications;DSA+%26+Problem+Solving+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7FFFD4&center=true&vCenter=true&width=600&lines=Passionate+AI%2FML+Engineer;Building+Modern+Web+%26+AI+Applications;DSA+%26+Problem+Solving+Enthusiast" alt="Typing SVG" />
 
 </div>
 
@@ -171,7 +171,7 @@ Explore more work & repositories:
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=00FF99&fontColor=FFFFFF&text=Coding%20Philosophy&fontSize=40&fontAlignY=40&desc=while%20(alive)%20%7B%20eat();%20sleep();%20code();%20repeat();%20%7D&descSize=20&descAlignY=65&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=7FFFD4&fontColor=FFFFFF&text=Coding%20Philosophy&fontSize=40&fontAlignY=40&desc=while%20(alive)%20%7B%20eat();%20sleep();%20code();%20repeat();%20%7D&descSize=20&descAlignY=65&animation=twinkling" />
 </div>
 
 </div>
@@ -185,15 +185,15 @@ Explore more work & repositories:
 <div align="center">
 
 <!-- GitHub Stats (Optional, uncomment if needed)
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MukeshKumar-17&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00FF99&text_color=FFFFFF&icon_color=00FF99" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MukeshKumar-17&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00FF99&text_color=FFFFFF" alt="Top Languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MukeshKumar-17&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=7FFFD4&text_color=FFFFFF&icon_color=7FFFD4" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MukeshKumar-17&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=7FFFD4&text_color=FFFFFF" alt="Top Languages" />
 -->
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MukeshKumar-17&theme=react&hide_border=true&background=0D1117&stroke=00FF99&ring=00FF99&fire=00FF99&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FF99&sideLabels=00FF99&dates=FFFFFF" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MukeshKumar-17&theme=react&hide_border=true&background=0D1117&stroke=7FFFD4&ring=7FFFD4&fire=7FFFD4&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=7FFFD4&sideLabels=00FF99&dates=FFFFFF" alt="GitHub Streak" />
 
 </div>
 
@@ -234,7 +234,7 @@ Explore more work & repositories:
 <div align="center">
   ✨ "Creating intelligent systems that shape a smarter future."
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF99&height=150&section=footer&reversal=true" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7FFFD4&height=150&section=footer&reversal=true" />
 
 
 **⭐ If you find my work interesting, feel free to star my repositories!**
