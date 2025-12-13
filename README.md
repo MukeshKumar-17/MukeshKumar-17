@@ -70,7 +70,7 @@ I am passionate about building intelligent systems, solving real-world problems 
 <td width="50%">
 
 ### FairAI — Bias Detection & Mitigation Platform
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Mukesh-Kumar-K&repo=FairAI&theme=react&bg_color=1F222E&title_color=00FF99&icon_color=00FF99&hide_border=true&show_icons=false)](https://github.com/Mukesh-Kumar-K/FairAI)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Mukesh-Kumar-K&repo=FairAI&theme=react&bg_color=1F222E&title_color=7FFFD4&icon_color=7FFFD4&hide_border=true&show_icons=false)](https://github.com/Mukesh-Kumar-K/FairAI)
 
 **Ethical AI & fairness evaluation**  
 Detects algorithmic bias in facial recognition and loan approval models with advanced fairness metrics & mitigation strategies.
@@ -79,7 +79,7 @@ Detects algorithmic bias in facial recognition and loan approval models with adv
 <td width="50%">
 
 ### MeetMogger AI — Intelligent Call Insights
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Mukesh-Kumar-K&repo=MeetMogger-AI&theme=react&bg_color=1F222E&title_color=00FF99&icon_color=00FF99&hide_border=true&show_icons=false)](https://github.com/Mukesh-Kumar-K/MeetMogger-AI)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Mukesh-Kumar-K&repo=MeetMogger-AI&theme=react&bg_color=1F222E&title_color=7FFFD4&icon_color=7FFFD4&hide_border=true&show_icons=false)](https://github.com/Mukesh-Kumar-K/MeetMogger-AI)
 
 **Conversation intelligence analytics**  
 Transforms call transcripts into insights using NLP — sentiment analysis, topic extraction, and automated action items for businesses.
@@ -90,7 +90,7 @@ Transforms call transcripts into insights using NLP — sentiment analysis, topi
 <td width="50%">
 
 ### Food Classifier & Nutrition Analyzer
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Mukesh-Kumar-K&repo=Food-Classifier-NutritionAI&theme=react&bg_color=1F222E&title_color=00FF99&icon_color=00FF99&hide_border=true&show_icons=false)](https://github.com/Mukesh-Kumar-K/Food-Classifier-NutritionAI)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Mukesh-Kumar-K&repo=Food-Classifier-NutritionAI&theme=react&bg_color=1F222E&title_color=7FFFD4&icon_color=7FFFD4&hide_border=true&show_icons=false)](https://github.com/Mukesh-Kumar-K/Food-Classifier-NutritionAI)
 
 **Deep learning-based food recognition**  
 CNN-powered food image classifier that identifies dishes and generates nutrition breakdown (calories, macros, and health score).
@@ -104,7 +104,7 @@ Explore more work & repositories:
 - Machine Learning & AI
 - Full-Stack Applications
 
-[![](https://img.shields.io/badge/View_All_Repositories-000000?style=for-the-badge&logo=github&logoColor=00FF99)](https://github.com/MukeshKumar-17?tab=repositories)
+[![](https://img.shields.io/badge/View_All_Repositories-000000?style=for-the-badge&logo=github&logoColor=7FFFD4)](https://github.com/MukeshKumar-17?tab=repositories)
 
 </td>
 </tr>
