@@ -127,7 +127,7 @@ Explore more work & repositories:
 </a>
 
 <a href="https://leetcode.com/u/MUKESH_KUMAR_K/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=00FF99" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=7FFFD4" alt="LeetCode" />
 </a>
 
 </td>
@@ -138,21 +138,21 @@ Explore more work & repositories:
 <table align="center">
   <tr>
     <td align="center" colspan="2">
-      <img src="https://img.shields.io/badge/Rating-1500%2B-000000?style=for-the-badge&logo=codechef&logoColor=00FF99&labelColor=000000" />
+      <img src="https://img.shields.io/badge/Rating-1500%2B-000000?style=for-the-badge&logo=codechef&logoColor=7FFFD4&labelColor=000000" />
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/Problems%20Solved-000000?style=for-the-badge&logo=codechef&logoColor=00FF99&labelColor=000000" />
+      <img src="https://img.shields.io/badge/Problems%20Solved-000000?style=for-the-badge&logo=codechef&logoColor=7FFFD4&labelColor=000000" />
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/Active%20Coder-000000?style=for-the-badge&logo=codechef&logoColor=00FF99&labelColor=000000" />
+      <img src="https://img.shields.io/badge/Active%20Coder-000000?style=for-the-badge&logo=codechef&logoColor=7FFFD4&labelColor=000000" />
     </td>
   </tr>
   <tr>
     <td align="center" colspan="2">
       <a href="https://www.codechef.com/users/kit23bam032" target="_blank">
-        <img src="https://img.shields.io/badge/CodeChef-000000?style=for-the-badge&logo=codechef&logoColor=00FF99&labelColor=000000" />
+        <img src="https://img.shields.io/badge/CodeChef-000000?style=for-the-badge&logo=codechef&logoColor=7FFFD4&labelColor=000000" />
       </a>
     </td>
   </tr>
@@ -161,7 +161,7 @@ Explore more work & repositories:
 ### Codolio
 
 <a href="https://codolio.com/profile/Mukesh_Kumar" target="_blank">
-  <img src="https://img.shields.io/badge/Codolio-000000?style=for-the-badge&logoColor=00FF99&labelColor=000000" alt="Codolio" />
+  <img src="https://img.shields.io/badge/Codolio-000000?style=for-the-badge&logoColor=7FFFD4&labelColor=000000" alt="Codolio" />
 </a>
 
 </td>
