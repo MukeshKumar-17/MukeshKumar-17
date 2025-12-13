@@ -171,7 +171,7 @@ Explore more work & repositories:
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=00FF99&fontColor=000000&text=Coding%20Philosophy&fontSize=40&fontAlignY=40&desc=while%20(alive)%20%7B%20eat();%20sleep();%20code();%20repeat();%20%7D&descSize=20&descAlignY=65&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=00FF99&fontColor=FFFFFF&text=Coding%20Philosophy&fontSize=40&fontAlignY=40&desc=while%20(alive)%20%7B%20eat();%20sleep();%20code();%20repeat();%20%7D&descSize=20&descAlignY=65&animation=twinkling" />
 </div>
 
 </div>
