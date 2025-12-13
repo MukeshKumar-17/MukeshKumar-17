@@ -199,7 +199,7 @@ Explore more work & repositories:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MukeshKumar-17&theme=react-dark&hide_border=true&bg_color=0D1117&color=7FFFD4&line=7FFFD4&point=7FFFD4&area=true&area_color=7FFFD4&title_color=7FFFD4" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MukeshKumar-17&theme=react-dark&hide_border=true&bg_color=0D1117&color=7FFFD4&line=7FFFD4&point=FFFFFF&area=true&area_color=7FFFD4&title_color=7FFFD4" alt="Activity Graph" />
 
 </div>
 
