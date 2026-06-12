@@ -2,22 +2,18 @@
 
 <img src="./Bannerr.jpeg" width="100%" /> 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7FFFD4&center=true&vCenter=true&width=600&lines=Passionate+AI%2FML+Engineer;Building+Modern+Web+%26+AI+Applications;DSA+%26+Problem+Solving+Enthusiast" alt="Typing SVG" />
 
 </div>
 
 
-
----
 ## About Me
 
-I am Mukesh Kumar K, a Computer Science Engineering student specializing in Artificial Intelligence and Machine Learning.  
-I am passionate about building intelligent systems, solving real-world problems through technology, and continuously improving my technical and analytical skills.
+I'm Mukesh Kumar K, a Computer Science Engineering student specializing in Artificial Intelligence & Machine Learning. I build intelligent, end-to-end systems,from agentic AI platforms and deep learning models to full-stack web applications,with a focus on solving real-world problems through clean, purposeful engineering.
+Currently seeking opportunities where I can contribute, learn, and grow alongside a driven team.
 
 ---
 
-
-##  Technical Skills  
+## Technical Skills
 
 <table align="center" width="100%">
   <tr>
@@ -27,7 +23,19 @@ I am passionate about building intelligent systems, solving real-world problems 
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
     </td>
   </tr>
-
+  <tr>
+    <th align="left">AI / ML Libraries</th>
+    <td>
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+      <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=7FFFD4" />
+      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+      <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+      <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+    </td>
+  </tr>
   <tr>
     <th align="left">Frontend Development</th>
     <td>
@@ -37,7 +45,6 @@ I am passionate about building intelligent systems, solving real-world problems 
       <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
     </td>
   </tr>
-
   <tr>
     <th align="left">Backend & Frameworks</th>
     <td>
@@ -47,7 +54,6 @@ I am passionate about building intelligent systems, solving real-world problems 
       <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
     </td>
   </tr>
-
   <tr>
     <th align="left">Databases & Tools</th>
     <td>
@@ -64,47 +70,75 @@ I am passionate about building intelligent systems, solving real-world problems 
 
 ---
 
-##  Featured Projects
+## Featured Projects
+
 <table>
 <tr>
 <td width="50%">
 
-### FairAI — Bias Detection & Mitigation Platform
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Mukesh-Kumar-K&repo=FairAI&theme=react&bg_color=1F222E&title_color=7FFFD4&icon_color=7FFFD4&hide_border=true&show_icons=false)](https://github.com/Mukesh-Kumar-K/FairAI)
+### NeuroGuard AI — Agentic AI Platform
+[![](https://github-readme-stats.vercel.app/api/pin/?username=MukeshKumar-17&repo=Neurogaurd-AI&theme=react&bg_color=1F222E&title_color=7FFFD4&icon_color=7FFFD4&hide_border=true&show_icons=false)](https://github.com/MukeshKumar-17/Neurogaurd-AI)
 
-**Ethical AI & fairness evaluation**  
-Detects algorithmic bias in facial recognition and loan approval models with advanced fairness metrics & mitigation strategies.
+Agentic AI platform for building custom AI agents and RAG workflows with multi-LLM orchestration.
+
+**Tech Stack:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=flat&logo=chainlink&logoColor=7FFFD4)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat&logo=groq&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat&logo=meta&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
 
 </td>
 <td width="50%">
 
-### MeetMogger AI — Intelligent Call Insights
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Mukesh-Kumar-K&repo=MeetMogger-AI&theme=react&bg_color=1F222E&title_color=7FFFD4&icon_color=7FFFD4&hide_border=true&show_icons=false)](https://github.com/Mukesh-Kumar-K/MeetMogger-AI)
+### Clickr — Voice-Driven Agentic AI Companion
+[![](https://github-readme-stats.vercel.app/api/pin/?username=MukeshKumar-17&repo=Clickr&theme=react&bg_color=1F222E&title_color=7FFFD4&icon_color=7FFFD4&hide_border=true&show_icons=false)](https://github.com/MukeshKumar-17/Clickr)
 
-**Conversation intelligence analytics**  
-Transforms call transcripts into insights using NLP — sentiment analysis, topic extraction, and automated action items for businesses.
+Voice-controlled agentic AI desktop companion that understands and executes commands intelligently.
+
+**Tech Stack:**  
+![Electron.js](https://img.shields.io/badge/Electron-2B2E3A?style=flat&logo=electron&logoColor=9FEAF9)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat&logo=groq&logoColor=white)
+![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=flat&logo=elevenlabs&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### Food Classifier & Nutrition Analyzer
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Mukesh-Kumar-K&repo=Food-Classifier-NutritionAI&theme=react&bg_color=1F222E&title_color=7FFFD4&icon_color=7FFFD4&hide_border=true&show_icons=false)](https://github.com/Mukesh-Kumar-K/Food-Classifier-NutritionAI)
+### Credit Scoring & Risk Assessment System
+[![](https://github-readme-stats.vercel.app/api/pin/?username=MukeshKumar-17&repo=Credit-Scoring-Model&theme=react&bg_color=1F222E&title_color=7FFFD4&icon_color=7FFFD4&hide_border=true&show_icons=false)](https://github.com/MukeshKumar-17/Credit-Scoring-Model)
 
-**Deep learning-based food recognition**  
-CNN-powered food image classifier that identifies dishes and generates nutrition breakdown (calories, macros, and health score).
+Production-ready ML app for real-time credit risk assessment using ensemble models for financial institutions.
+
+**Tech Stack:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=flat&logo=xgboost&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 
 </td>
 <td width="50%">
 
-### More Projects
+### Frutiger Aero Portfolio — "Humanism in Technology"
+[![](https://github-readme-stats.vercel.app/api/pin/?username=MukeshKumar-17&repo=Frutiger-portfolio&theme=react&bg_color=1F222E&title_color=7FFFD4&icon_color=7FFFD4&hide_border=true&show_icons=false)](https://github.com/MukeshKumar-17/Frutiger-portfolio)
 
-Explore more work & repositories:
-- Machine Learning & AI
-- Full-Stack Applications
+Nostalgic web OS portfolio inspired by Frutiger Aero & Windows 7 — glossy textures, skeuomorphic design, and mid-2000s optimism.
 
-[![](https://img.shields.io/badge/View_All_Repositories-000000?style=for-the-badge&logo=github&logoColor=7FFFD4)](https://github.com/MukeshKumar-17?tab=repositories)
+**Tech Stack:**  
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 </td>
 </tr>
@@ -112,7 +146,7 @@ Explore more work & repositories:
 
 ---
 
-##  Coding Platforms & Statistics
+## Coding Platforms & Statistics
 
 <div align="center">
 
@@ -120,7 +154,7 @@ Explore more work & repositories:
 <tr>
 <td width="50%" valign="top">
 
-###  LeetCode Profile
+### LeetCode Profile
 
 <a href="https://leetcode.com/u/MUKESH_KUMAR_K/">
   <img src="https://leetcard.jacoblin.cool/MUKESH_KUMAR_K?theme=dark&font=Ubuntu&ext=heatmap&border=0D1117&radius=0" alt="LeetCode Stats" width="100%" />
@@ -133,7 +167,7 @@ Explore more work & repositories:
 </td>
 <td width="50%" valign="top">
 
-###  CodeChef Profile
+### CodeChef Profile
 
 <table align="center">
   <tr>
@@ -178,18 +212,7 @@ Explore more work & repositories:
 
 ---
 
-
-##  GitHub Analytics
-
-
-<div align="center">
-
-<!-- GitHub Stats (Optional, uncomment if needed)
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MukeshKumar-17&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=7FFFD4&text_color=FFFFFF&icon_color=7FFFD4" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MukeshKumar-17&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=7FFFD4&text_color=FFFFFF" alt="Top Languages" />
--->
-
-</div>
+## GitHub Analytics
 
 <div align="center">
 
@@ -203,7 +226,6 @@ Explore more work & repositories:
 
 </div>
 
-
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MukeshKumar-17/MukeshKumar-17/output/github-snake-dark.svg" />
@@ -214,7 +236,8 @@ Explore more work & repositories:
 
 ---
 
-##  Connect with Me  
+## Connect with Me
+
 <p align="left">
 
   <a href="https://www.linkedin.com/in/mukeshkumark17/">
@@ -228,14 +251,15 @@ Explore more work & repositories:
   <a href="https://codolio.com/profile/Mukesh_Kumar">
     <img src="https://img.shields.io/badge/Codolio-000000?style=for-the-badge&logoColor=white"/>
   </a>
+
 </p>
 
 ---
+
 <div align="center">
   ✨ "Creating intelligent systems that shape a smarter future."
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7FFFD4&height=150&section=footer&reversal=true" />
-
 
 **⭐ If you find my work interesting, feel free to star my repositories!**
 
