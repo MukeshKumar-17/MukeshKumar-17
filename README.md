@@ -51,7 +51,8 @@ Currently seeking opportunities where I can contribute, learn, and grow alongsid
       <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
       <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
       <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+      <img src="https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=7FFFD4" />
+      <img src="https://img.shields.io/badge/InsForge-000000?style=for-the-badge&logo=insforge&logoColor=7FFFD4" />
     </td>
   </tr>
   <tr>
